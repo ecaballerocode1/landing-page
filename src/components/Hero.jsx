@@ -38,7 +38,7 @@ function Hero() {
             }}
             className="lg:mt-4 lg:text-lg text-justify lg:font-medium"
           >
-            En NeuralEdge AI desarrollamos soluciones de inteligencia artificial
+            En NeuralEdge AI desarrollamos soluciónes de inteligencia artificial
             que impulsan la innovación en tu empresa. <br />
             Desde modelos predictivos hasta automatización avanzada, te ayudamos
             a tomar decisiones más rápidas y precisas
